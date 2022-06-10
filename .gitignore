@@ -1,0 +1,8 @@
+node_modules
+.env
+.vscode
+dev.txt
+html-fund-me.code-workspace.json
+.prettierrc
+.gitignore
+main
